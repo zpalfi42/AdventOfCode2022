@@ -1,7 +1,4 @@
-#include <iostream>
-#include <cstdlib>
-#include <string>
-#include <fstream>
+#include <day1.hpp>
 
 int	main( void )
 {
